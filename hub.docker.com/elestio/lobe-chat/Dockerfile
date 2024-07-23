@@ -1,2 +1,2 @@
-FROM lobehub/lobe-chat:latest
+FROM elestio/lobe-chat:3.8
 LABEL MAINTAINER=aliyun BUILDTYPE=Aliyun
